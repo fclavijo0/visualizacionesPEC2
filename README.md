@@ -1,4 +1,4 @@
-# visualizacionesPEC2
+# Visualizaciones PEC2
 A5: Estudio de técnicas de visualización de datos (PEC2)
 
 Se ha seleccionado un conjunto de datos del National Highway Traff ic Safety Administration (https://www.nhtsa.gov/).
