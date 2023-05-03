@@ -20,3 +20,10 @@ Variables
 5. PVH_INVL número de vehículos estacionados implicados
 6. PEDS número de peatones implicados
 7. STATENAME nombre de estado
+
+
+Visualizaciones presentes
+
+1. Treemaps
+2. Parallel Coordinates plots
+3. Bullet graphs
